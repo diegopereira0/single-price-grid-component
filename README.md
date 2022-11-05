@@ -20,8 +20,8 @@ This is a solution to the [Single price grid component](https://www.frontendment
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-component-main-gNsv1e-eO_)
-- Live Site URL: [Live Site at Github](https://github.com/diegopereira0/3-column-preview-card-component)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/single-price-grid-component-d_tC0dQxGX)
+- Live Site URL: [Live Site at Github](https://diegopereira0.github.io/single-price-grid-component/)
 
 ## My process
 
